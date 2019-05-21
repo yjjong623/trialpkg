@@ -1,0 +1,7 @@
+setup.py
+trialpkg/__init__.py
+trialpkg/trial.py
+trialpkg.egg-info/PKG-INFO
+trialpkg.egg-info/SOURCES.txt
+trialpkg.egg-info/dependency_links.txt
+trialpkg.egg-info/top_level.txt
